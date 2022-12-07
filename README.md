@@ -1,1 +1,1 @@
-# js_project___random_color_generator
+# Random-Color-Generator
